@@ -154,16 +154,6 @@ Explore all my repositories, experiments, and work in progress on my GitHub prof
 
 ---
 
-<!-- ===================== 8. ACHIEVEMENTS & CERTIFICATIONS ===================== -->
-## 🏆 Achievements & Certifications
-
-<!-- REPLACE: swap these placeholders with your real achievements and certifications -->
-- 🥇 [REPLACE: Achievement or Hackathon 1]
-- 🎓 [REPLACE: Certification 1]
-- 🏅 [REPLACE: Achievement or Certification 2]
-
----
-
 <!-- ===================== 9. CURRENTLY LEARNING ===================== -->
 ## 📚 Currently Learning
 
@@ -192,7 +182,7 @@ Explore all my repositories, experiments, and work in progress on my GitHub prof
 [![Resume](https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-resume-url.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemasaithota3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hema-sai-thota-86384a393/)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemasaithota3-cmd)
 
 <br/>
