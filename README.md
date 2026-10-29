@@ -178,8 +178,7 @@ Explore all my repositories, experiments, and work in progress on my GitHub prof
 <div align="center">
 
 <!-- REPLACE: portfolio, resume, and Twitter/X links below -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
-[![Resume](https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-resume-url.com)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemasaithota3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hema-sai-thota-86384a393/)
 
